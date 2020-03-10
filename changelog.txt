@@ -1,0 +1,23 @@
+FIN:
+1.1.0 [2018-08-13]
+Käyttöliittymäpäivitys, jossa hankkiudutaan eroon ohjeilmoituksista
+- Uusi Ohje-nappi lisätty käyttöliittymään; avaa ohjeikkunan ohjelman nappien toiminnoista
+- Ensimmäisen suorituskerran ohjeistavat viesti-ikkunat poistettu
+- Kuvaajan akselien nimet käännetty suomeksi yhdenmukaisuuden säilyttämiseksi
+
+1.0.1 [2018-08-13]
+Pieni toiminnallisuuspäivitys kuvaajien tallentamiseen
+- Uusia tiedostotyyppejä lisätty kuvaajaa tallennettaessa
+- Kelpaamattomasta tiedostopäätteestä ilmoitetaan käyttäjälle nätisti konsolivirheen sijaan
+
+EN:
+1.1.0 [2018-08-13]
+UI update to get rid of forced instruction prompts
+- Added a new help button for opening an instructional window on the program's features
+- Subsequently removed the instructional prompts that would pop up every time a button was pressed for the first time
+- Translated the plot's labels to Finnish for consistency
+
+1.0.1 [2018-08-13]
+Small functionality update to plot exporting
+- Added new filetypes to the plot export function
+- Using an unsupported or invalid file extension will now neatly prompt the user instead of pushing a console error message
