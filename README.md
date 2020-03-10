@@ -6,4 +6,4 @@ Sisällytetty moduuli "ikkunasto.py" on MIT-lisenssin alla, tekijä Mika Oja, Ou
 
 IN ENGLISH:
 Oulu University's Elementary programming course's final project. A spectral analysis program. The program is in Finnish.
-The included module "ikkunasto.py" is under an MIT-license, author Mika Oja, Oulu university.
+The included module "ikkunasto.py" is under an MIT-license, author Mika Oja, Oulu University.
