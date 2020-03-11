@@ -1,0 +1,4 @@
+virheellisten tiedostojen testaukseen
+diibadaaba
+jes
+oikein.exe
